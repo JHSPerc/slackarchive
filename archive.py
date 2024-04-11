@@ -8,7 +8,7 @@ from slack.errors import SlackApiError
 # channels:history
 # channels:join
 # channels:manage
-SLACK_API_TOKEN = 'xoxb-596273566884-6970557939792-ka7DCxyO9UTkZuYme56KVg7u'
+SLACK_API_TOKEN = 'Your Token Here'
 
 ARCHIVE_LAST_MESSAGE_AGE_DAYS = 90
 
